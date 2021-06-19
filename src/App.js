@@ -16,12 +16,6 @@ import UserLogin from './Auth/UserLogin'
 
 class App extends Component{
 
-
-    
-  
-
-
-
     render(){
         return (
             <div className="App">
