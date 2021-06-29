@@ -1,12 +1,12 @@
 # Chatbot API
-This API is part of the Code for Good hackathon project. It returns the answer to the given question related to menstrual health.
+This API is part of ChatBot functionality in the Code for Good hackathon project. It returns the answer to the given question related to menstrual health.
 
 ## Requirements 
 
-1. flask
-2. nltk
+1. flask - Python framework for building Web applications and APIs. 
+2. nltk - Natural language processing toolkit in Python.
 
-**Install using** 
+**Install dependencies using** 
 ```
 pip install nltk flask 
 ```
